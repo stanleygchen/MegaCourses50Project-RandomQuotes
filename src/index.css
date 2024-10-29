@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  /* font-family: "Courier New", Courier, monospace; */
+  font-family: "Patrick Hand", cursive;
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#footer {
+  margin-top: 1rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  font-size: 0.9rem;
+  color: rgb(226, 78, 78);
+  text-align: center;
+  background-color: bisque;
+  padding: 4px;
+}
+#footer a {
+  color: black;
+}
